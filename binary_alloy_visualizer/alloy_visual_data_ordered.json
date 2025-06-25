@@ -1,0 +1,5204 @@
+{
+  "elements": [
+    "H",
+    "He",
+    "Li",
+    "Be",
+    "",
+    "B",
+    "C",
+    "N",
+    "O",
+    "F",
+    "Ne",
+    "Na",
+    "Mg",
+    "",
+    "Al",
+    "Si",
+    "P",
+    "S",
+    "Cl",
+    "Ar",
+    "K",
+    "Ca",
+    "Sc",
+    "Ti",
+    "V",
+    "Cr",
+    "Mn",
+    "Fe",
+    "Co",
+    "Ni",
+    "Cu",
+    "Zn",
+    "Ga",
+    "Ge",
+    "As",
+    "Se",
+    "Br",
+    "Kr",
+    "Rb",
+    "Sr",
+    "Y",
+    "Zr",
+    "Nb",
+    "Mo",
+    "Tc",
+    "Ru",
+    "Rh",
+    "Pd",
+    "Ag",
+    "Cd",
+    "In",
+    "Sn",
+    "Sb",
+    "Te",
+    "I",
+    "Xe",
+    "Cs",
+    "Ba",
+    "*",
+    "Hf",
+    "Ta",
+    "W",
+    "Re",
+    "Os",
+    "Ir",
+    "Pt",
+    "Au",
+    "Hg",
+    "Tl",
+    "Pb",
+    "Bi",
+    "Po",
+    "At",
+    "Rn",
+    "Fr",
+    "Ra",
+    "**",
+    "Rf",
+    "Db",
+    "Sg",
+    "Bh",
+    "Hs",
+    "Mt",
+    "Ds",
+    "Rg",
+    "Cn"
+  ],
+  "alloyMap": {
+    "Sc": {
+      "Li": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Be": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mg": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Al": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "In": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Sn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pb": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ti": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "V": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Cr": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Mn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Fe": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Co": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ni": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cu": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Zn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Y": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Nb": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Mo": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Rh": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Pd": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ag": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cd": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Hf": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ta": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Au": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Hg": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ir": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Os": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pt": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Re": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "W": {
+        "binary": "no",
+        "ordered": "no"
+      }
+    },
+    "Li": {
+      "Sc": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cu": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ni": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ti": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Fe": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "V": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Cr": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Mn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Co": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Zn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Os": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ir": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pt": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Au": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Hg": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Be": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Al": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mg": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "In": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Sn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pb": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Y": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Nb": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Mo": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Rh": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pd": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ag": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cd": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Hf": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ta": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "W": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Re": {
+        "binary": "no",
+        "ordered": "no"
+      }
+    },
+    "Be": {
+      "Sc": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cu": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ni": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ti": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Fe": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "V": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Cr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Co": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Zn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Os": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ir": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pt": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Au": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Hg": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Li": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Al": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Mg": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "In": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Sn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pb": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Y": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Nb": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mo": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Rh": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pd": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ag": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cd": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Hf": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ta": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "W": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Re": {
+        "binary": "no",
+        "ordered": "no"
+      }
+    },
+    "Mg": {
+      "Sc": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cu": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ni": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ti": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Fe": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "V": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Cr": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Mn": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Co": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Zn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Os": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ir": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pt": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Au": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Hg": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Li": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Be": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Al": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "In": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Sn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pb": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Y": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Nb": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Mo": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Rh": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pd": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ag": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cd": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Hf": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ta": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "W": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Re": {
+        "binary": "no",
+        "ordered": "no"
+      }
+    },
+    "Al": {
+      "Sc": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cu": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ni": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ti": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Fe": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "V": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Co": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Zn": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Os": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ir": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pt": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Au": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Hg": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Li": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Be": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Mg": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "In": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Sn": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Pb": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Y": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Nb": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mo": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Rh": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pd": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ag": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cd": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Hf": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ta": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "W": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Re": {
+        "binary": "no",
+        "ordered": "no"
+      }
+    },
+    "In": {
+      "Sc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Cu": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ni": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ti": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Fe": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "V": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Cr": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Mn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Co": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Zn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Os": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ir": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pt": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Au": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Hg": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Li": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Be": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Al": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Mg": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Y": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Nb": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mo": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Rh": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pd": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ag": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cd": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Hf": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ta": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "W": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Re": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Sn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pb": {
+        "binary": "yes",
+        "ordered": "no"
+      }
+    },
+    "Sn": {
+      "Sc": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cu": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ni": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ti": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Fe": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "V": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Cr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Co": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Zn": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Os": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ir": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pt": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Au": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Hg": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Li": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Be": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Al": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Mg": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Y": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Nb": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mo": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Rh": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pd": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ag": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cd": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Hf": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ta": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "W": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Re": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "In": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pb": {
+        "binary": "yes",
+        "ordered": "no"
+      }
+    },
+    "Pb": {
+      "Sc": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cu": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ni": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ti": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Fe": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "V": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Cr": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Mn": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Co": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Zn": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Os": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ir": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pt": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Au": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Hg": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Li": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Be": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Al": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Mg": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Y": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Nb": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Mo": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Rh": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pd": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ag": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cd": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Hf": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ta": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "W": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Re": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "In": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Sn": {
+        "binary": "yes",
+        "ordered": "no"
+      }
+    },
+    "Ti": {
+      "Sc": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cu": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ni": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Li": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Be": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mg": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Al": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "In": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Sn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pb": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "V": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Fe": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Co": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Zn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Y": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Nb": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Mo": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Rh": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pd": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ag": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cd": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Hf": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "W": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ta": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Re": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Os": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ir": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pt": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Au": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Hg": {
+        "binary": "no",
+        "ordered": "no"
+      }
+    },
+    "V": {
+      "Sc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Cu": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ni": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ti": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Fe": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Li": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Be": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Al": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mg": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "In": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Sn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pb": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Cr": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Mn": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Co": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Zn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Y": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Nb": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Mo": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Rh": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pd": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ag": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Cd": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Hf": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ta": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "W": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Re": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Os": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ir": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pt": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Au": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Hg": {
+        "binary": "no",
+        "ordered": "no"
+      }
+    },
+    "Cr": {
+      "Sc": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cu": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ni": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ti": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Fe": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "V": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Li": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Be": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Al": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mg": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "In": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Sn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pb": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Mn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Co": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Zn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Y": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Nb": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mo": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Rh": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pd": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ag": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Cd": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Hf": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ta": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "W": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Re": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Os": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ir": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pt": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Au": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Hg": {
+        "binary": "no",
+        "ordered": "no"
+      }
+    },
+    "Mn": {
+      "Sc": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cu": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ni": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ti": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Fe": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "V": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Li": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Be": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Al": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mg": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "In": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Sn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pb": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Co": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Zn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Y": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Nb": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Mo": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Rh": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pd": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ag": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cd": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Hf": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ta": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "W": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Re": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Os": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ir": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pt": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Au": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Hg": {
+        "binary": "no",
+        "ordered": "no"
+      }
+    },
+    "Fe": {
+      "Sc": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cu": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ni": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ti": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Li": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Be": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Al": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mg": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "In": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Sn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pb": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "V": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cr": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Mn": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Co": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Zn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Y": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Nb": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mo": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Tc": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Rh": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Pd": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ag": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cd": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Hf": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ta": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "W": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Re": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Os": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ir": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Pt": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Au": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Hg": {
+        "binary": "no",
+        "ordered": "no"
+      }
+    },
+    "Co": {
+      "Sc": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cu": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ni": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ti": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Fe": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "V": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cr": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Mn": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Li": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Be": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Al": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mg": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "In": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Sn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pb": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Zn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Y": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Nb": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mo": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Rh": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pd": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ag": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cd": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Hf": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ta": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "W": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Re": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Os": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ir": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pt": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Au": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Hg": {
+        "binary": "no",
+        "ordered": "no"
+      }
+    },
+    "Ni": {
+      "Sc": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cu": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Be": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ti": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Sn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Li": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Mg": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Al": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "In": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pb": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "V": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Fe": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Co": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Zn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Y": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Nb": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mo": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Rh": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Pd": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ag": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cd": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Hf": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ta": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "W": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Re": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Os": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ir": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pt": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Au": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Hg": {
+        "binary": "no",
+        "ordered": "no"
+      }
+    },
+    "Cu": {
+      "Sc": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Li": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Be": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mg": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Al": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "In": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Sn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pb": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ti": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "V": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cr": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Mn": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Fe": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Co": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ni": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Zn": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Y": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Nb": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Mo": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Rh": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pd": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ag": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cd": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Hf": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ta": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "W": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Re": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Os": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ir": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Pt": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Au": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Hg": {
+        "binary": "yes",
+        "ordered": "yes"
+      }
+    },
+    "Zn": {
+      "Sc": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cu": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ni": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ti": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Fe": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "V": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Co": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Li": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Be": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Al": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Mg": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "In": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Sn": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Pb": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Y": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Nb": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Mo": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Rh": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pd": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ag": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cd": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Hf": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ta": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "W": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Re": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Os": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ir": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pt": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Au": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Hg": {
+        "binary": "yes",
+        "ordered": "yes"
+      }
+    },
+    "Y": {
+      "Sc": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cu": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ni": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ti": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Fe": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "V": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cr": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Mn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Co": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Zn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Os": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ir": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Pt": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Au": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Hg": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Li": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Be": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Al": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mg": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "In": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Sn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pb": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Nb": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Mo": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Rh": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pd": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ag": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cd": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Hf": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ta": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "W": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Re": {
+        "binary": "no",
+        "ordered": "no"
+      }
+    },
+    "Zr": {
+      "Sc": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cu": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ni": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ti": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Fe": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "V": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Co": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Zn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Os": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ir": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pt": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Au": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Hg": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Li": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Be": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Al": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mg": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "In": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Sn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pb": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Y": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Nb": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Mo": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Rh": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pd": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ag": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Hf": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ta": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "W": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Re": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cd": {
+        "binary": "no",
+        "ordered": "no"
+      }
+    },
+    "Nb": {
+      "Sc": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cu": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ni": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ti": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Fe": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "V": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mn": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Co": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Zn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Os": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ir": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pt": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Au": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Hg": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Li": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Be": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Al": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mg": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Y": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "In": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Sn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pb": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Mo": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Rh": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pd": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ag": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cd": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Hf": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ta": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "W": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Re": {
+        "binary": "no",
+        "ordered": "no"
+      }
+    },
+    "Mo": {
+      "Sc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Cu": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ni": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ti": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Fe": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "V": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cr": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Mn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Co": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Zn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Os": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ir": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pt": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Au": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Hg": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Li": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Be": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Al": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mg": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Y": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Nb": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "In": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Sn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pb": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Rh": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pd": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ag": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cd": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Hf": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ta": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "W": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Re": {
+        "binary": "yes",
+        "ordered": "yes"
+      }
+    },
+    "Tc": {
+      "Sc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Cu": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ni": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ti": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Fe": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "V": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Cr": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Mn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Co": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Zn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Os": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ir": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pt": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Au": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Hg": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Li": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Be": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Al": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Mg": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Zr": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Y": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Nb": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Mo": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "In": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Sn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pb": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Rh": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pd": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ag": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Cd": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Hf": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ta": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "W": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Re": {
+        "binary": "yes",
+        "ordered": "no"
+      }
+    },
+    "Ru": {
+      "Sc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Cu": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ni": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ti": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Fe": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "V": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Co": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Zn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Os": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ir": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Pt": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Au": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Hg": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Li": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Be": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Al": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Mg": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Y": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Nb": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Mo": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "In": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Sn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pb": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Rh": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pd": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ag": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cd": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Hf": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ta": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "W": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Re": {
+        "binary": "yes",
+        "ordered": "no"
+      }
+    },
+    "Rh": {
+      "Sc": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cu": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ni": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ti": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Fe": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "V": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Co": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Zn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Os": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ir": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Pt": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Au": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Hg": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Li": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Be": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Al": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Mg": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Y": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Nb": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mo": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "In": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Sn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pb": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pd": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ag": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cd": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Hf": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ta": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "W": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Re": {
+        "binary": "yes",
+        "ordered": "no"
+      }
+    },
+    "Pd": {
+      "Sc": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cu": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ni": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ti": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Fe": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "V": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Co": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Zn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Os": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ir": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Pt": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Au": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Hg": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Li": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Be": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Al": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mg": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Y": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Nb": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Mo": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Rh": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "In": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Sn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pb": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ag": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cd": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Hf": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ta": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "W": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Re": {
+        "binary": "yes",
+        "ordered": "yes"
+      }
+    },
+    "Ag": {
+      "Sc": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cu": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ni": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ti": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Fe": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "V": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Cr": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Mn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Co": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Zn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Os": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ir": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Pt": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Au": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Hg": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Li": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Be": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Al": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Mg": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Y": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Nb": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Mo": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Rh": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Pd": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "In": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Sn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pb": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cd": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Hf": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ta": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "W": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Re": {
+        "binary": "no",
+        "ordered": "no"
+      }
+    },
+    "Cd": {
+      "Sc": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cu": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ni": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ti": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Fe": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "V": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Cr": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Mn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Co": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Zn": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Os": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ir": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pt": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Au": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Hg": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Li": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Be": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Al": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Mg": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Zr": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Y": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Nb": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Mo": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Rh": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pd": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ag": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "In": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Sn": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Pb": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Hf": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ta": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "W": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Re": {
+        "binary": "no",
+        "ordered": "no"
+      }
+    },
+    "Hf": {
+      "Sc": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cu": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ni": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ti": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Fe": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "V": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Co": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Zn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Os": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ir": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pt": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Au": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Hg": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Li": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Be": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Al": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mg": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Y": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Nb": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Mo": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Rh": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pd": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ag": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cd": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "In": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Sn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pb": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ta": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "W": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Re": {
+        "binary": "yes",
+        "ordered": "yes"
+      }
+    },
+    "Ta": {
+      "Sc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Cu": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ni": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ti": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Fe": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "V": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Co": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Zn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Os": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ir": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pt": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Au": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Hg": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Li": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Be": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Al": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mg": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Y": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Nb": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Mo": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Rh": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pd": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ag": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cd": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Hf": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "In": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Sn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pb": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "W": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Re": {
+        "binary": "yes",
+        "ordered": "yes"
+      }
+    },
+    "Au": {
+      "Sc": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cu": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ni": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ti": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Fe": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "V": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cr": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Mn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Co": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Zn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Os": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ir": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Pt": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Li": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Be": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Al": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mg": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "In": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Sn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pb": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Y": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Nb": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mo": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Rh": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Pd": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ag": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cd": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Hf": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ta": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "W": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Re": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Hg": {
+        "binary": "yes",
+        "ordered": "yes"
+      }
+    },
+    "Hg": {
+      "Sc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Cu": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ni": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ti": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Fe": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "V": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Cr": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Mn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Co": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Zn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Os": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ir": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Pt": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Au": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Li": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Be": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Al": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Mg": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "In": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Sn": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Pb": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Y": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Zr": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Nb": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Mo": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Rh": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pd": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ag": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cd": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Hf": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ta": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "W": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Re": {
+        "binary": "no",
+        "ordered": "no"
+      }
+    },
+    "Ir": {
+      "Sc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Cu": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ni": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ti": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Fe": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "V": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Co": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Zn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Os": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Li": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Be": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Al": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mg": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "In": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Sn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pb": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Y": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Nb": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mo": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Rh": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Pd": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ag": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cd": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Hf": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ta": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "W": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Re": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Pt": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Au": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Hg": {
+        "binary": "yes",
+        "ordered": "no"
+      }
+    },
+    "Os": {
+      "Sc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Cu": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ni": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ti": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Fe": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "V": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Co": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Zn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Li": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Be": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Al": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Mg": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "In": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Sn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pb": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Y": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Nb": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mo": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Rh": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Pd": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ag": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Cd": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Hf": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ta": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "W": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Re": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ir": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pt": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Au": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Hg": {
+        "binary": "no",
+        "ordered": "no"
+      }
+    },
+    "Pt": {
+      "Sc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Cu": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ni": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ti": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Fe": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "V": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Co": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Zn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Os": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ir": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Li": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Be": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Al": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mg": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "In": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Sn": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pb": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Y": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Nb": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mo": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Rh": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pd": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ag": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cd": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Hf": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ta": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "W": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Re": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Au": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Hg": {
+        "binary": "no",
+        "ordered": "no"
+      }
+    },
+    "Re": {
+      "Sc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Cu": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ni": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ti": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Fe": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "V": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Cr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Co": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Zn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Os": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ir": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Pt": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Au": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Hg": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Li": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Be": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Al": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Mg": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Y": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Nb": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Mo": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Tc": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Rh": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Pd": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ag": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Cd": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Hf": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ta": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "W": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "In": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Sn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Pb": {
+        "binary": "no",
+        "ordered": "no"
+      }
+    },
+    "W": {
+      "Sc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Cu": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Ni": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ti": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Fe": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "V": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Co": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Zn": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Os": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ir": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Pt": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Au": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Hg": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Li": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Be": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Al": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Mg": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Zr": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Y": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Nb": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Mo": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Tc": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Ru": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Rh": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Pd": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ag": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Cd": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Hf": {
+        "binary": "yes",
+        "ordered": "yes"
+      },
+      "Ta": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "In": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Sn": {
+        "binary": "yes",
+        "ordered": "no"
+      },
+      "Pb": {
+        "binary": "no",
+        "ordered": "no"
+      },
+      "Re": {
+        "binary": "yes",
+        "ordered": "yes"
+      }
+    }
+  }
+}
